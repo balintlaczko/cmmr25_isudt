@@ -42,7 +42,31 @@ In the *scripts* folder there are also training scripts for training all models 
 
 The training scripts are expected to be invoked from the root folder of this repository.
 
-# Cite
+# How to cite
 
-Citation info will be updated here after the conference.
+[Link to paper](https://doi.org/10.5281/zenodo.17497987)
+
+## APA
+
+```
+Laczkó, B., Rognes, M. E., & Jensenius, A. R. (2025). Image Sonification as Unsupervised Domain Transfer. Proceedings of the 17th International Symposium on Computer Music Multidisciplinary Research, 596–607. https://doi.org/10.5281/zenodo.17497987
+```
+
+## BibTeX
+
+```
+@inproceedings{laczkoImageSonificationUnsupervised2025,
+	address = {London, UK},
+	title = {Image {Sonification} as {Unsupervised} {Domain} {Transfer}},
+	isbn = {979-10-97498-06-1},
+	url = {https://doi.org/10.5281/zenodo.17497987},
+	doi = {10.5281/zenodo.17497987},
+	booktitle = {Proceedings of the 17th {International} {Symposium} on {Computer} {Music} {Multidisciplinary} {Research}},
+	publisher = {The Laboratory PRISM “Perception, Representations, Image, Sound, Music”},
+	author = {Laczkó, Bálint and Rognes, Marie E and Jensenius, Alexander Refsum},
+	month = nov,
+	year = {2025},
+	pages = {596--607},
+}
+```
 
