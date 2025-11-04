@@ -1,5 +1,5 @@
 # Image Sonification as Unsupervised Domain Transfer
-This is the code repository for our paper "Image Sonification as Unsupervised Domain Transfer", to be presented on CMMR 2025, London.
+This is the code repository for our paper "Image Sonification as Unsupervised Domain Transfer", presented on CMMR 2025, London.
 
 This paper introduces a novel image sonification method, framed as a domain transfer problem, in a fully unsupervised framework. It is a combination of two FactorVAE models that learn representations of image and sound datasets, and an MLP Mapper network that projects latent points from the image model's latent space to the sound model's. 
 
@@ -17,7 +17,7 @@ First, it is recommended that you make an environment, for example, via conda:
 conda create -n cmmr25_isudt python=3.12 pip
 conda activate cmmr25_isudt
 ```
-Then got into the *cmmr25_isudt* folder (where the cloned repository resides on your computer) and install the **cmmr25_isudt** local package as editable:
+Then go into the *cmmr25_isudt* folder (where the cloned repository resides on your computer) and install the **cmmr25_isudt** local package as editable:
 ```
 pip install -e .
 ```
